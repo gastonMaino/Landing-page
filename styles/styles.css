@@ -328,7 +328,7 @@ body {
   content: "miCorreo@gmail.com";
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 900px) {
   :root {
     --height-shape: 14em;
   }
@@ -416,3 +416,4 @@ body {
     justify-content: space-evenly;
   }
 }
+
